@@ -1,1 +1,1 @@
-# US-states-gamr
+# US-states-game
